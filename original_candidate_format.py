@@ -1,6 +1,6 @@
 #!/usr/bin/python
-###### author : Akshay Minocha ###############
-###### mailto: akshayminocha5@gmail.com ######
+###### author : Karan Singla ###############
+###### mailto: ksingla025@gmail.com ######
 # Returns a list of words ( specify the dictionary and enjoy a disambiguated hashtag )
 # input here is coming from easy_tokenize2.py
 #which means that it is still not in the ambiguated format
