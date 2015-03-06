@@ -1,6 +1,6 @@
 #!/usr/bin/python
-########Author Akshay Minocha ( ksnmi | minocha )##############
-########mailto:akshayminocha5@gmail.com########################
+########Author Karan Singla##############
+########mailto:ksingla025@gmail.com########################
 
 import pickle
 #substitution list
