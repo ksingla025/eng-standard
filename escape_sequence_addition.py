@@ -1,6 +1,6 @@
 #!/usr/bin/python
-########author: Akshay Minocha############
-########mailto:akshayminocha5@gmail.com###
+########author: Karan Singla############
+########mailto:ksingla025@gmail.com###
 #In accordance with the Apertium stream format ... http://wiki.apertium.org/wiki/Apertium_stream_format
 import re
 import sys
